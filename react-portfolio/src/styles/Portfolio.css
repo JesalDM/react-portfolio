@@ -1,0 +1,37 @@
+#portfolio {
+	padding: 60px 0 100px;
+}
+
+.portfolio-btn{
+	padding: 6px 14px;
+	margin:15px;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.portfolio-item {
+	margin: 20px;
+	transition: all 0.5s ease-out;
+}
+
+img{
+    max-width: 400px;
+}
+
+.card{
+    border: 2px solid rgb(43, 42, 42);
+}
+
+.card-body{
+    border-top: 2px solid rgb(43, 42, 42);
+    background-color: #e5e5e5;
+}
+
+.card-text{
+    color: rgb(34, 33, 33);
+    font-size: 13px;
+}
+
+.card-title{
+    font-weight: 600;
+}
