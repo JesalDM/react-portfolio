@@ -1,0 +1,38 @@
+#about-me {
+	padding: 60px 0 100px;
+	background: #d6dadd;
+}
+#about-me h2 {
+	font-weight: 600;
+	color: #777;
+	margin-bottom: 40px;
+}
+#about-me img {
+	width: 300px;
+	margin: 5px 50px 10px 0;
+}
+#about-me p {
+	color: #666;
+	margin-bottom: 20px;
+	line-height: 30px;
+	text-align: justify;
+	font-size:15px;
+}
+
+.resume-btn{
+	color:white;
+	background-color: #444;
+}
+.resume-btn:hover, .resume-btn:focus, .resume-btn:active {
+	color: #444;
+	background-color: transparent;
+	border: 2px solid #444;
+}
+
+button a{
+	color: white;
+}
+
+button a:hover, button a:focus, button a:active{
+	color: #444;
+}

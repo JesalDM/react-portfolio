@@ -1,7 +1,7 @@
 [
     {
-        "gifLink" :"../assets/gym_logistical_tracker.webm",
-        "source" : "../assets/gym_logistical_tracker.png",
+        "gifLink" :"/assets/gym_logistical_tracker.webm",
+        "source" : "/assets/gym_logistical_tracker.png",
         "altText" : "Gym Management System",
         "projectTitle" : "Gym Logistical Tracker",
         "projectBody" : "A gym management system built using back-end and front-end technologies like express, sequelize, javascript",
@@ -9,8 +9,8 @@
         "codeLink" : "https://github.com/JesalDM/Gym-Logistical-Tracker"
     },
     {
-        "gifLink" :"../assets/Drury-Lane-Sweets.gif",
-        "source": "../assets/Drury-Lane-Sweets.png",
+        "gifLink" :"/assets/Drury-Lane-Sweets.gif",
+        "source": "/assets/Drury-Lane-Sweets.png",
         "altText": "Dessert Place Website",
         "projectTitle" : "Drury Lane Sweets",
         "projectBody" : "A dessert place website with online ordering, delivery and catering services built using HTML, CSS, Javascript, JQuery, AJAX.",
@@ -18,8 +18,8 @@
         "codeLink" : "https://github.com/JesalDM/Drury-Lane-Sweets/"
     },
     {
-        "gifLink" :"../assets/note-taker-demo.gif",
-        "source" : "../assets/note-taker-demo.png",
+        "gifLink" :"/assets/note-taker-demo.gif",
+        "source" : "/assets/note-taker-demo.png",
         "altText" : "Note-taker",
         "projectTitle" : "Note-taker",
         "projectBody" : "A node.js application built using the node Express package, that can be used to write, save, view and delete notes.",
@@ -27,8 +27,8 @@
         "codeLink" : "https://github.com/JesalDM/note-taker"
     },
     {
-        "gifLink" :"../assets/employee_directory_app_demo.gif",
-        "source": "../assets/employee_directory_screenshot.png",
+        "gifLink" :"/assets/employee_directory_app_demo.gif",
+        "source": "/assets/employee_directory_screenshot.png",
         "altText" : "Employee Directory",
         "projectTitle" : "Employee Directory",
         "projectBody" : "A React-based application that uses third party API to generate an employee directory that allows a user to sort and filter the records",
@@ -36,8 +36,8 @@
         "codeLink" : "https://github.com/JesalDM/employee-directory"
     },
     {
-        "gifLink" :"../assets/Work-Day-Scheduler.gif",
-        "source" : "../assets/Work-day-scheduler.png",
+        "gifLink" :"/assets/Work-Day-Scheduler.gif",
+        "source" : "/assets/Work-day-scheduler.png",
         "altText" : "Work-day Scheduler",
         "projectTitle" : "Work-Day Scheduler",
         "projectBody" : "A color-coded work-day scheduler application that saves tasks for the day",
@@ -45,8 +45,8 @@
         "codeLink" : "https://github.com/JesalDM/workday-scheduler/"
     },
     {
-        "gifLink" :"../assets/Weather-Dashboard.gif",
-        "source": "../assets/Weather-Dashboard.png",
+        "gifLink" :"/assets/Weather-Dashboard.gif",
+        "source": "/assets/Weather-Dashboard.png",
         "altText" : "Weather Dashboard",
         "projectTitle" : "Weather Dashboard",
         "projectBody" : "A weather application showing current and forecast weather for a location, built using AJAX",
@@ -63,8 +63,8 @@
         "codeLink" : "https://github.com/JesalDM/team-profile-generator"
     },
     {
-        "gifLink" :"../assets/Javascript-Code-Quiz.gif",
-        "source" : "../assets/code-quiz.png",
+        "gifLink" :"/assets/Javascript-Code-Quiz.gif",
+        "source" : "/assets/code-quiz.png",
         "altText" : "Javascript Code Quiz - Welcome Page",
         "projectTitle" : "Javascript Code Quiz",
         "projectBody" : "A timed and scored javascript built code quiz application that tests the javascript fundamentals and saves the user high scores.",
