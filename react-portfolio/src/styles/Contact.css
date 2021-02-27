@@ -1,0 +1,166 @@
+#contact{
+	background-color:#4c4c4c;
+	color:white;	
+}
+
+.main-section.contact{
+	padding:90px 0 100px;
+}
+
+.contact_section{
+	margin:0 0 60px 0;
+}
+
+.contact_section h2{
+	font-size:40px;
+	color: white;
+	margin:0 0 50px 10px;
+	text-transform:uppercase;
+}
+
+.contact_block{
+	text-align:center;
+}
+
+.contact_block_icon{
+    border-radius: 50%;
+    height: 85px;
+	width:85px;
+	margin:0px auto 20px;	
+}
+.contact_block_icon span {
+    background-color: #f5a06e;
+	border: 5px solid #fff;
+    border-radius: 50%;
+    height: 100%;
+	width: 100%;
+}
+
+.contact_block_icon span:hover, .contact_block_icon.icon2 span:hover, .contact_block_icon.icon3 span:hover{
+	background-color:rgb(146, 139, 139);
+}
+
+.contact_block_icon.icon2 span{
+	background-color:#7cc576;
+}
+
+.contact_block_icon.icon3 span{
+	background-color:#49b5e7;
+}
+
+.contact_block_icon i {
+    color: #fff;
+    font-size: 36px;
+    position: relative;
+    top: 22px;
+}
+.contact_block span{
+	display:block;
+	font-size:16px;
+	line-height:20px;
+	}
+
+.contact_block span a{
+	display:block;
+	font-size:16px;
+	color:#ffffff;
+	line-height:20px;
+	}
+
+
+.contact-info-box{
+	font-size:15px;
+	margin:0 0 14px 20px;
+	padding-left:0;
+
+}
+.contact-info-box h3{
+	font-size: 24px;
+	font-weight:600;
+}
+
+.contact-info-box p{
+	line-height:28px;
+	display:block;
+	font-size:16px;
+	color:#ffffff;
+}
+
+.social-link{
+	padding:35px 0;
+	margin:0 0 0 20px;
+	display:block;
+	overflow:hidden;
+	list-style:none;
+	
+}
+.social-link li{
+	float:left;
+	margin-right:20px;
+}
+
+.social-link li a{
+	display:block;
+	width:55px;
+	border:3px solid #fff;
+	border-radius:50%;
+	text-align:center;
+	line-height:48px;
+	font-size:25px;
+	color:#fff;
+	background:#222222;
+	border-radius:50%;
+	transition:all 0.3s ease-in-out;
+}
+
+.linkedIn a:hover {
+	background: #2867b2;
+}
+
+.github a:hover {
+	background: #ad5c51;
+}
+
+.form{
+	margin:0 66px 0 30px;
+}
+.input-text{
+	padding:15px 16px;
+	border:1px solid #ccc;
+	width:100%;
+	height:50px;
+	display:block;
+	border-radius:4px;
+	font-size:15px;
+	color: #aaa;
+	font-family: 'Lato', sans-serif;
+	margin:0 0 15px 0;
+	transition:all 0.3s ease-in-out;
+}
+
+.input-text:focus {
+	border: 2px solid #61d657;
+	outline:0;
+}
+
+.input-text.text-area{
+	height:150px;
+	font-family: 'Lato', sans-serif;
+}
+.input-btn{
+	font-family: 'Dosis', sans-serif;
+	height:50px;
+	background:#7cc576;
+	border-radius:3px;
+	color:#ffffff;
+	font-size:16px;
+	text-transform:uppercase;
+	font-weight:600;
+	border:0px;
+	transition:all 0.3s ease-in-out;
+}
+
+.input-btn:hover{
+	background: rgb(31, 145, 238);
+	color: #222;
+}
