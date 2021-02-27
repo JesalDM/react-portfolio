@@ -18,13 +18,31 @@
         "codeLink" : "https://github.com/JesalDM/Drury-Lane-Sweets/"
     },
     {
+        "gifLink" :"../assets/note-taker-demo.gif",
+        "source" : "../assets/note-taker-demo.png",
+        "altText" : "Note-taker",
+        "projectTitle" : "Note-taker",
+        "projectBody" : "A node.js application built using the node Express package, that can be used to write, save, view and delete notes.",
+        "liveLink" : "https://manage-notes.herokuapp.com/",
+        "codeLink" : "https://github.com/JesalDM/note-taker"
+    },
+    {
         "gifLink" :"../assets/employee_directory_app_demo.gif",
         "source": "../assets/employee_directory_screenshot.png",
         "altText" : "Employee Directory",
         "projectTitle" : "Employee Directory",
-        "projectBody" : "A React-based application that uses third party API to generate an employee directory that allows a user to sort by Name and filter by Email",
+        "projectBody" : "A React-based application that uses third party API to generate an employee directory that allows a user to sort and filter the records",
         "liveLink" : "https://my-employee-directory-app.herokuapp.com/",
         "codeLink" : "https://github.com/JesalDM/employee-directory"
+    },
+    {
+        "gifLink" :"../assets/Work-Day-Scheduler.gif",
+        "source" : "../assets/Work-day-scheduler.png",
+        "altText" : "Work-day Scheduler",
+        "projectTitle" : "Work-Day Scheduler",
+        "projectBody" : "A color-coded work-day scheduler application that saves tasks for the day",
+        "liveLink" : "https://jesaldm.github.io/workday-scheduler/.",
+        "codeLink" : "https://github.com/JesalDM/workday-scheduler/"
     },
     {
         "gifLink" :"../assets/Weather-Dashboard.gif",
@@ -52,23 +70,5 @@
         "projectBody" : "A timed and scored javascript built code quiz application that tests the javascript fundamentals and saves the user high scores.",
         "liveLink" : "https://jesaldm.github.io/code-quiz/.",
         "codeLink" : "https://github.com/JesalDM/code-quiz"
-    },
-    {
-        "gifLink" :"../assets/note-taker-demo.gif",
-        "source" : "../assets/note-taker-demo.png",
-        "altText" : "Note-taker",
-        "projectTitle" : "Note-taker",
-        "projectBody" : "A node.js application built using the node Express package, that can be used to write, save, view and delete notes.",
-        "liveLink" : "https://manage-notes.herokuapp.com/",
-        "codeLink" : "https://github.com/JesalDM/note-taker"
-    },
-    {
-        "gifLink" :"../assets/Work-Day-Scheduler.gif",
-        "source" : "../assets/Work-day-scheduler.png",
-        "altText" : "Work-day Scheduler",
-        "projectTitle" : "Work-Day Scheduler",
-        "projectBody" : "A color-coded work-day scheduler application that saves tasks for the day",
-        "liveLink" : "https://jesaldm.github.io/workday-scheduler/.",
-        "codeLink" : "https://github.com/JesalDM/workday-scheduler/"
     }
 ]

@@ -6,19 +6,19 @@ function Home(){
     return(
         <div>
             <header id="header">
-                <div class="intro pb-4">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-lg-5">
-                                <img src="/assets/portfolio-intro4.png" alt="Jesal Mehta's pic" class="home-page-photo"/>
+                <div className="intro pb-4">
+                    <div className="container">
+                        <div className="row">
+                            <div className="col-lg-5">
+                                <img src="/assets/portfolio-intro4.png" alt="Jesal Mehta's pic" className="home-page-photo"/>
                             </div>
-                            <div class="intro-text col-lg-7">
+                            <div className="intro-text col-lg-7">
                                 <h1>Jesal Mehta</h1>
                                 <p>Business Analyst / Web Developer</p>
                                 {/* // Links to navigate to the other sections in the website */}
-                                <a href="#portfolio" class="btn btn-custom btn-lg">Portfolio</a> 
-                                <a href="#about-me" class="btn btn-custom btn-lg">About Me</a> 
-                                <a href="#contact" class="btn btn-custom btn-lg">Contact</a>
+                                <a href="#portfolio" className="btn btn-custom btn-lg">Portfolio</a> 
+                                <a href="#about-me" className="btn btn-custom btn-lg">About Me</a> 
+                                <a href="#contact" className="btn btn-custom btn-lg">Contact</a>
                             </div>
                         </div>
                     </div>
