@@ -3,7 +3,6 @@ import portfolioItems from '../../src/portfolioItems.json'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import '../styles/Portfolio.css'
 
-
 function portfolio(){
     return(
     <div id="portfolio">
