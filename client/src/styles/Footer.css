@@ -1,11 +1,11 @@
 .footer_bottom {
-	background-color:white;
+    background-color:#4c4c4c;
 	padding:20px 0;
 }
 
 .footer_bottom p{
 	display:block;
 	font-size:16px;
-	color: rgb(39, 36, 36);
+    color: white;
 	text-align:center;
 }
