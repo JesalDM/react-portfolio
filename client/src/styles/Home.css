@@ -21,3 +21,21 @@
 img{
     max-width: 400px;
 }
+
+.btn-custom {
+	font-family: 'Montserrat', sans-serif;
+	text-transform: uppercase;
+	color: rgb(65, 64, 64);
+	background-color: transparent;
+	border: 2px solid #444;
+	padding: 14px 20px;
+	margin: 20px 30px 30px 0px;
+	font-size: 14px;
+	border-radius: 5%;
+	transition: all 0.5s;
+  }
+  
+  .btn-custom:hover, .btn-custom:focus, .btn-custom:active {
+	color: #eee;
+	background-color: #444;
+  }
