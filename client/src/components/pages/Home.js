@@ -1,8 +1,9 @@
 import React from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import '../styles/Home.css'
+import '../../styles/Home.css';
 
 function Home(){
+
     return(
         <div>
             <header id="header">
@@ -16,9 +17,9 @@ function Home(){
                                 <h1>Jesal Mehta</h1>
                                 <p>Business Analyst / Web Developer</p>
                                 {/* // Links to navigate to the other sections in the website */}
-                                <a href="#portfolio" className="btn btn-custom btn-lg">Portfolio</a> 
-                                <a href="#about-me" className="btn btn-custom btn-lg">About Me</a> 
-                                <a href="#contact" className="btn btn-custom btn-lg">Contact</a>
+                                <a href="/portfolio" className="btn btn-custom btn-lg">Portfolio</a> 
+                                <a href="/aboutMe" className="btn btn-custom btn-lg">About Me</a> 
+                                <a href="/contact" className="btn btn-custom btn-lg">Contact</a>
                             </div>
                         </div>
                     </div>

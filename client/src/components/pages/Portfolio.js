@@ -1,7 +1,7 @@
 import React from 'react';
-import portfolioItems from '../../src/portfolioItems.json'
+import portfolioItems from '../../../src/portfolioItems.json'
 import 'bootstrap/dist/css/bootstrap.min.css';
-import '../styles/Portfolio.css'
+import '../../styles/Portfolio.css'
 
 function portfolio(){
     return(
@@ -13,7 +13,7 @@ function portfolio(){
                 </div>
                 {/* Navigate to the home page link */}
                 <div className="col-sm-3 pt-3 navigate-top">
-                    <a href="#header">GO TO TOP</a>
+                    <a href="/">GO TO HOME</a>
                 </div>
             </div>
             {/* div for displaying the projects */}

@@ -1,5 +1,5 @@
 import React from 'react';
-import '../styles/AboutMe.css'
+import '../../styles/AboutMe.css'
 
 function AboutMe(){
     return(
@@ -10,7 +10,7 @@ function AboutMe(){
                         <h2>About Me</h2>
                     </div>
                     <div className="col-sm-3 pt-3 navigate-top about">
-                        <a className="pt-5" href="#header">GO TO TOP</a>
+                        <a className="pt-5" href="/">GO TO HOME</a>
                     </div>
                 </div>
                 <div className="row">

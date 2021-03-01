@@ -1,5 +1,5 @@
 import React from 'react';
-import '../styles/Contact.css';
+import '../../styles/Contact.css';
 import Form from './Form';
 
 
@@ -15,7 +15,7 @@ function Contact(){
                             </div>
                             {/* Navigate to the home page link */}
                             <div className="col-sm-3 pt-3 navigate-top about">
-                                <a className="pt-5" href="#header">GO TO TOP</a>
+                                <a className="pt-5" href="/">GO TO HOME</a>
                             </div>
                         </div>
                         {/* Address, phone and email details */}
