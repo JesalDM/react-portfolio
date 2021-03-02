@@ -5,7 +5,7 @@ function Footer(){
     return(
         <footer class="footer_bottom"> 
             <div class="container">
-                <p>Copyright © 2020 Jesal Mehta</p> 
+                <p>Copyright © 2021 Jesal Mehta</p> 
             </div>
         </footer>
     )

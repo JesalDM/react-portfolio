@@ -36,15 +36,6 @@
         "codeLink" : "https://github.com/JesalDM/employee-directory"
     },
     {
-        "gifLink" :"/assets/Work-Day-Scheduler.gif",
-        "source" : "/assets/Work-day-scheduler.png",
-        "altText" : "Work-day Scheduler",
-        "projectTitle" : "Work-Day Scheduler",
-        "projectBody" : "A color-coded work-day scheduler application that saves tasks for the day",
-        "liveLink" : "https://jesaldm.github.io/workday-scheduler/.",
-        "codeLink" : "https://github.com/JesalDM/workday-scheduler/"
-    },
-    {
         "gifLink" :"/assets/Weather-Dashboard.gif",
         "source": "/assets/Weather-Dashboard.png",
         "altText" : "Weather Dashboard",
@@ -61,6 +52,15 @@
         "projectBody" : "Node command line application that gathers team information and generates a software engineering team profile using Inquirer package",
         "liveLink" : "https://jesaldm.github.io/team-profile-generator/assets/sampleTeam.html",
         "codeLink" : "https://github.com/JesalDM/team-profile-generator"
+    },
+    {
+        "gifLink" :"/assets/Work-Day-Scheduler.gif",
+        "source" : "/assets/Work-day-scheduler.png",
+        "altText" : "Work-day Scheduler",
+        "projectTitle" : "Work-Day Scheduler",
+        "projectBody" : "A color-coded work-day scheduler application that saves tasks for the day",
+        "liveLink" : "https://jesaldm.github.io/workday-scheduler/.",
+        "codeLink" : "https://github.com/JesalDM/workday-scheduler/"
     },
     {
         "gifLink" :"/assets/Javascript-Code-Quiz.gif",

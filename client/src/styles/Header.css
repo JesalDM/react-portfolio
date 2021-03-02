@@ -1,0 +1,12 @@
+.nav-link {
+	color: rgb(65, 64, 64);
+}
+
+.nav-link:hover, .nav-link:focus{
+	color: white;
+    background-color: #444;
+}
+
+.active {
+    font-weight: bold;
+}
