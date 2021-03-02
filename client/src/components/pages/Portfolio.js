@@ -2,6 +2,7 @@ import React from 'react';
 import portfolioItems from '../../../src/portfolioItems.json'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import '../../styles/Portfolio.css'
+import PortfolioItem from './PortfolioItem';
 
 function portfolio(){
     return(
@@ -19,25 +20,12 @@ function portfolio(){
             {/* div for displaying the projects */}
             <div className="row projects">  
                 {portfolioItems.map(item =>(
-                    <div key={item.projectTitle} className="col-lg-6">
-                        <div className="portfolio-item animated zoomIn">
-                            <div className="card text-center" style={{width: 420}}>
-                                <a href={item.gifLink} target="_blank" rel="noreferrer"><img src={item.source} className="img-fluid" alt={item.altText}/></a>
-                                <div className="card-body">
-                                    <h5>{item.projectTitle}</h5>
-                                    <p className="card-text">{item.projectBody}</p>
-                                    <a href={item.liveLink} target="_blank" rel="noreferrer" className="btn btn-custom portfolio-btn btn-sm">View Live</a>
-                                    <a href={item.codeLink} target="_blank" rel="noreferrer" className="btn btn-custom portfolio-btn btn-sm">View Code</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                    <PortfolioItem item={item}/>
                 ))}
             </div>
         </div>
     </div>
    )
 }
-
 
 export default portfolio;

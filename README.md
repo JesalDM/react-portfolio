@@ -48,11 +48,11 @@ This website is individually developed by Jesal Mehta (Github profile- https://g
 
 * Deployed Application URL:  https://jesal-portfolio.herokuapp.com/
 * Github Repository URL: https://github.com/JesalDM/react-portfolio
-* Portfolio Website demo: ![Demo](./public/assets/Jesal_Mehta_Portfolio.gif)
+* Portfolio Website demo: ![Demo](./client/public/assets/Jesal_Mehta_Portfolio.gif)
 * Screenshots : 
-    - ![Screenshot](./public/assets/Home-page.png)
-    - ![Screenshot](./public/assets/portfolio-page1.png)
-    - ![Screenshot](./public/assets/Portfolio-page2.png)
-    - ![Screenshot](./assets/images/Portfolio-page3.png)
-    - ![Screenshot](./public/assets/About-me-page.png)
-    - ![Screenshot](./public/assets/Contact-page.png)
+    - ![Screenshot](./client/public/assets/Home-page.png)
+    - ![Screenshot](./client/public/assets/portfolio-page1.png)
+    - ![Screenshot](./client/public/assets/Portfolio-page2.png)
+    - ![Screenshot](./client/public/assets/Portfolio-page3.png)
+    - ![Screenshot](./client/public/assets/About-me-page.png)
+    - ![Screenshot](./client/public/assets/Contact-page.png)
