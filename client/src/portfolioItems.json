@@ -18,13 +18,13 @@
         "codeLink" : "https://github.com/JesalDM/Drury-Lane-Sweets/"
     },
     {
-        "gifLink" :"/assets/note-taker-demo.gif",
-        "source" : "/assets/note-taker-demo.png",
-        "altText" : "Note-taker",
-        "projectTitle" : "Note-taker",
-        "projectBody" : "A node.js application built using the node Express package, that can be used to write, save, view and delete notes.",
-        "liveLink" : "https://manage-notes.herokuapp.com/",
-        "codeLink" : "https://github.com/JesalDM/note-taker"
+        "gifLink" :"/assets/google_books_search_app_demo.gif",
+        "source" : "/assets/Google_books_search.png",
+        "altText" : "Google Books Search",
+        "projectTitle" : "Google Books Search",
+        "projectBody" : "An single-page application created using MERN that can be used to search for a Google book, view it, save it as well as delete it.",
+        "liveLink" : "https://google-search-books-app.herokuapp.com/",
+        "codeLink" : "https://github.com/JesalDM/google-books-search"
     },
     {
         "gifLink" :"/assets/employee_directory_app_demo.gif",
@@ -63,12 +63,12 @@
         "codeLink" : "https://github.com/JesalDM/workday-scheduler/"
     },
     {
-        "gifLink" :"/assets/Javascript-Code-Quiz.gif",
-        "source" : "/assets/code-quiz.png",
-        "altText" : "Javascript Code Quiz - Welcome Page",
-        "projectTitle" : "Javascript Code Quiz",
-        "projectBody" : "A timed and scored javascript built code quiz application that tests the javascript fundamentals and saves the user high scores.",
-        "liveLink" : "https://jesaldm.github.io/code-quiz/.",
-        "codeLink" : "https://github.com/JesalDM/code-quiz"
+        "gifLink" :"/assets/note-taker-demo.gif",
+        "source" : "/assets/note-taker-demo.png",
+        "altText" : "Note-taker",
+        "projectTitle" : "Note-taker",
+        "projectBody" : "A node.js application built using the node Express package, that can be used to write, save, view and delete notes.",
+        "liveLink" : "https://manage-notes.herokuapp.com/",
+        "codeLink" : "https://github.com/JesalDM/note-taker"
     }
 ]
