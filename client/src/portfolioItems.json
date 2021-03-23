@@ -1,12 +1,12 @@
 [
     {
-        "gifLink" :"/assets/gym_logistical_tracker.webm",
+        "gifLink" :"/assets/gym_logistical_tracker.gif",
         "source" : "/assets/gym_logistical_tracker.png",
         "altText" : "Gym Management System",
-        "projectTitle" : "Gym Logistical Tracker",
-        "projectBody" : "A gym management system built using back-end and front-end technologies like express, sequelize, javascript",
-        "liveLink" : "https://gym-logistical-tracker-duex.herokuapp.com/",
-        "codeLink" : "https://github.com/JesalDM/Gym-Logistical-Tracker"
+        "projectTitle" : "DevFit - Gym Logistical Tracker",
+        "projectBody" : "A gym management system built using MERN technology stack that caters to member, trainer and manager roles, and incorporates store and payment functionality",
+        "liveLink" : "https://dev-fit-gym-app.herokuapp.com/",
+        "codeLink" : "https://github.com/JesalDM/Devfit"
     },
     {
         "gifLink" :"/assets/Drury-Lane-Sweets.gif",
